@@ -1,0 +1,4 @@
+Name id designation age Ctc age
+Ramesh 1000 CEO 45 1234 20 
+ramu 1234 pop 45 1000 46 
+ramesh 0001 cashier 50 1010 20 
